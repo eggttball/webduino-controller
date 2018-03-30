@@ -1,6 +1,5 @@
 require("webduino-js");
 require("webduino-blockly");
-require("firebase");
 
 var soil;
 var led;
